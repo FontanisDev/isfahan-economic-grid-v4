@@ -79,6 +79,14 @@ Use the Identify tool to inspect any hexagon.
 5. Labeled hexagons keep their measured composition.
 6. Unlabeled hexagons keep predictions above 0.30 probability.
 
+## Documentation
+
+- METHODOLOGY.md: scientific rationale, data sources, model design, limitations
+- RESULTS_INTERPRETATION.md: how to read outputs, validation guidance, appropriate use cases
+- RELEASE_NOTES_V4.md: release scope, results, bundled assets
+- CHANGELOG.md: version history
+- DATA_SOURCES.md: data licenses and attribution
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
