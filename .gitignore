@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+*.osm
+
+# Assets (uploaded as GitHub Release files, NOT in git)
+assets-v4/
+data/unspsc-english-v260801.1.xlsx
+tiles/
+tiles.zip
+
+# Large data files (uploaded as GitHub Release assets)
+data/OSM/isfahan_correct_all.geojson
+data/OSM/isfahan_correct.pbf

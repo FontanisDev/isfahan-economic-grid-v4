@@ -1,0 +1,11 @@
+numpy
+pandas
+geopandas
+shapely
+h3
+rdflib
+scikit-learn
+sentence-transformers
+requests
+osmium
+openpyxl

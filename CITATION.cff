@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite it as below."
+title: "Isfahan Economic Grid v4: sector composition of urban activity on an H3 resolution 9 grid"
+version: 4.0.0
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/isfahan-economic-grid-v4"
+keywords:
+  - H3
+  - UNSPSC
+  - OpenStreetMap
+  - GeoNames
+  - knowledge graph
+  - sector composition
+  - urban economics
+  - Isfahan
+authors:
+  - given-names: Hamid
+    family-names: Salehi
+
